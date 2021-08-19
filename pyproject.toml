@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "signal_processing.py"
+version = "0.1.0"
+description = ""
+authors = ["diohabara <diohabara@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.7,<3.10"
+matplotlib = "^3.4.3"
+numpy = "^1.21.2"
+scipy = "^1.7.1"
+jupyter = "^1.0.0"
+jupyterlab = "^3.1.7"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
