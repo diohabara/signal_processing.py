@@ -1081,7 +1081,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.7,<3.10"
-content-hash = "ae45166a3eabdea9010c8ec5f4e39d34bb5f2071b11c241f3a77d97a40e94774"
+content-hash = "fe8b785da2c8af910067dfaf849774c91734e5bd9c7a3d5052dcf73ab9c77c92"
 
 [metadata.files]
 anyio = [
