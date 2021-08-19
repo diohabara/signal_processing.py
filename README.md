@@ -12,3 +12,7 @@ poetry install
 ```sh
 poetry run jupyter lab
 ```
+
+## 1. Python と便利なライブラリたち
+
+[notebook](./chapter1.ipynb)
