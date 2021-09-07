@@ -22,3 +22,7 @@ poetry run jupyter lab
 ## 2. フーリエ級数展開
 
 [notebook](./chapter2.ipynb)
+
+## 3. 関数の直交性
+
+[notebook](./chapter3.ipynb)

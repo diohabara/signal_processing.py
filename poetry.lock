@@ -970,6 +970,17 @@ optional = false
 python-versions = ">=3.5"
 
 [[package]]
+name = "sympy"
+version = "1.8"
+description = "Computer algebra system (CAS) in Python"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.dependencies]
+mpmath = ">=0.19"
+
+[[package]]
 name = "terminado"
 version = "0.11.1"
 description = "Tornado websocket backend for the Xterm.js Javascript terminal emulator library."
@@ -1093,7 +1104,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.7,<3.10"
-content-hash = "f19d71727c52e6a38f6459a00246632e57ed2f6b68551f94fcd48c93d95e84e8"
+content-hash = "0823471fae2e9da8ef4067e2e0134f6211f82fc4c674082932413952e2e021bb"
 
 [metadata.files]
 anyio = [
@@ -1764,6 +1775,10 @@ six = [
 sniffio = [
     {file = "sniffio-1.2.0-py3-none-any.whl", hash = "sha256:471b71698eac1c2112a40ce2752bb2f4a4814c22a54a3eed3676bc0f5ca9f663"},
     {file = "sniffio-1.2.0.tar.gz", hash = "sha256:c4666eecec1d3f50960c6bdf61ab7bc350648da6c126e3cf6898d8cd4ddcd3de"},
+]
+sympy = [
+    {file = "sympy-1.8-py3-none-any.whl", hash = "sha256:3b0b3776e357f789951bb14776c6a841f931680f20d5f8fe55977885657c9b7a"},
+    {file = "sympy-1.8.tar.gz", hash = "sha256:1ca588a9f6ce6a323c5592f9635159c2093572826668a1022c75c75bdf0297cb"},
 ]
 terminado = [
     {file = "terminado-0.11.1-py3-none-any.whl", hash = "sha256:9e0457334863be3e6060c487ad60e0995fa1df54f109c67b24ff49a4f2f34df5"},
