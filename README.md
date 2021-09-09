@@ -26,3 +26,7 @@ poetry run jupyter lab
 ## 3. 関数の直交性
 
 [notebook](./chapter3.ipynb)
+
+## 4. ギブス現象と総和法
+
+[notebook](./chapter4.ipynb)
