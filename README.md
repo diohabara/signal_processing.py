@@ -30,3 +30,7 @@ poetry run jupyter lab
 ## 4. ギブス現象と総和法
 
 [notebook](./chapter4.ipynb)
+
+## 5. 複素フーリエ級数
+
+[notebook](./chapter5.ipynb)
