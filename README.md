@@ -42,3 +42,7 @@ poetry run jupyter lab
 ## 7. フーリエ変換の諸性質
 
 [notebook](./chapter7.ipynb)
+
+## 8. Python で FFT
+
+[notebook](./chapter8.ipynb)
