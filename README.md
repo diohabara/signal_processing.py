@@ -46,3 +46,7 @@ poetry run jupyter lab
 ## 8. Python で FFT
 
 [notebook](./chapter8.ipynb)
+
+## 9. Python でスペクトログラム
+
+[notebook](./chapter9.ipynb)
