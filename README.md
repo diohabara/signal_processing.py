@@ -34,3 +34,7 @@ poetry run jupyter lab
 ## 5. 複素フーリエ級数
 
 [notebook](./chapter5.ipynb)
+
+## 6. フーリエ変換
+
+[notebook](./chapter6.ipynb)
