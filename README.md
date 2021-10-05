@@ -38,3 +38,7 @@ poetry run jupyter lab
 ## 6. フーリエ変換
 
 [notebook](./chapter6.ipynb)
+
+## 7. フーリエ変換の諸性質
+
+[notebook](./chapter7.ipynb)
